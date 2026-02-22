@@ -1,3 +1,14 @@
-# Welcome to the official SplameiPlay GitHub page!
+![SplameiPlay](https://raw.githubusercontent.com/splameiplay/.github/refs/heads/main/Images/GitHub%20Banner.png)
 
-We're working on this page so please bear with us while we do this. In the meantime, you can check out SplameiPlay [here](https://www.veemo.uk/splamei) or the current GitHub repo [here](https://github.com/splamei/splameiplay)
+Welcome to the official SplameiPlay GitHub organisation! Here you'll find all the repos for SplameiPlay's open-source software:
+
+- [SplameiPlay Lite](https://github.com/splameiplay/splameiplay-lite)
+- [SplameiPlay Docs](https://github.com/splameiplay/splameiplay-docs)
+
+> Don't worry, there's more projects getting ready to go open-source so look out for them
+
+---
+
+[Official website](https://www.veemo.uk) - [SplameiPlay (App) Webpage](https://www.veemo.uk/splameiplay)
+
+## Made with ❤️ by Splamei
